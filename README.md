@@ -12,3 +12,5 @@ http://www.cs.tau.ac.il/~zwick/Adv-Alg-2015/Sorting-Networks.pdf
 https://www.szi.uni-bremen.de/wp-content/uploads/2020/03/thesis_compressed.pdf
 
 http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap28.htm
+
+https://courses.grainger.illinois.edu/cs573/fa2012/lec/lec/19_sortnet.pdf
