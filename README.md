@@ -16,3 +16,9 @@ http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap28.htm
 https://courses.grainger.illinois.edu/cs573/fa2012/lec/lec/19_sortnet.pdf
 
 https://es.cs.uni-kl.de/publications/datarsg/MoSc11.pdf
+
+https://cs.stackexchange.com/questions/101228/smallest-possible-sorting-network-for-given-permutation
+
+https://stackoverflow.com/questions/67438539/how-to-prove-that-lower-bound-of-a-sorting-networks-depth-is-lgn
+
+https://cs.stackexchange.com/questions/90783/optimal-4-input-sorting-network
