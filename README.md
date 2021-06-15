@@ -22,3 +22,9 @@ https://cs.stackexchange.com/questions/101228/smallest-possible-sorting-network-
 https://stackoverflow.com/questions/67438539/how-to-prove-that-lower-bound-of-a-sorting-networks-depth-is-lgn
 
 https://cs.stackexchange.com/questions/90783/optimal-4-input-sorting-network
+
+https://www.cs.rutgers.edu/~venugopa/parallel_summer2012/bitonic_overview.html
+
+http://www.cs.tau.ac.il/~zwick/Adv-Alg-2015/Sorting-Networks.pdf
+
+
